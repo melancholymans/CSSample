@@ -1,0 +1,15 @@
+D:\C#の教科書\CSSample\CSSample\CSSample\bin\Debug\net6.0\CSSample.exe
+D:\C#の教科書\CSSample\CSSample\CSSample\bin\Debug\net6.0\CSSample.deps.json
+D:\C#の教科書\CSSample\CSSample\CSSample\bin\Debug\net6.0\CSSample.runtimeconfig.json
+D:\C#の教科書\CSSample\CSSample\CSSample\bin\Debug\net6.0\CSSample.dll
+D:\C#の教科書\CSSample\CSSample\CSSample\bin\Debug\net6.0\CSSample.pdb
+D:\C#の教科書\CSSample\CSSample\CSSample\obj\Debug\net6.0\CSSample.csproj.AssemblyReference.cache
+D:\C#の教科書\CSSample\CSSample\CSSample\obj\Debug\net6.0\CSSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#の教科書\CSSample\CSSample\CSSample\obj\Debug\net6.0\CSSample.AssemblyInfoInputs.cache
+D:\C#の教科書\CSSample\CSSample\CSSample\obj\Debug\net6.0\CSSample.AssemblyInfo.cs
+D:\C#の教科書\CSSample\CSSample\CSSample\obj\Debug\net6.0\CSSample.csproj.CoreCompileInputs.cache
+D:\C#の教科書\CSSample\CSSample\CSSample\obj\Debug\net6.0\CSSample.dll
+D:\C#の教科書\CSSample\CSSample\CSSample\obj\Debug\net6.0\refint\CSSample.dll
+D:\C#の教科書\CSSample\CSSample\CSSample\obj\Debug\net6.0\CSSample.pdb
+D:\C#の教科書\CSSample\CSSample\CSSample\obj\Debug\net6.0\CSSample.genruntimeconfig.cache
+D:\C#の教科書\CSSample\CSSample\CSSample\obj\Debug\net6.0\ref\CSSample.dll
